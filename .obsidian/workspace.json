@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ющак/Initial Note.md",
+                "file": "Проць/Functionality/User Functionality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ющак/Initial Note.md",
+                "file": "Проць/Functionality/User Functionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ющак/Initial Note.md",
+                "file": "Проць/Functionality/User Functionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ющак/Initial Note.md"
+                "file": "Проць/Functionality/User Functionality.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "b2c92017caf2d7b5",
   "lastOpenFiles": [
-    "Лабик/Initial Note.md",
     "Ющак/Initial Note.md",
+    "Лабик/Initial Note.md",
     "Казмірчук/Initial Note.md",
     "Кончак/Initial note.md",
     "Проць/Functionality/User Functionality.md",
