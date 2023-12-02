@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проць/Functionality/User Functionality.md",
+                "file": "Проць/Functionality/Unregistered user Functionality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проць/Functionality/User Functionality.md",
+                "file": "Проць/Functionality/Unregistered user Functionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проць/Functionality/User Functionality.md",
+                "file": "Проць/Functionality/Unregistered user Functionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проць/Functionality/User Functionality.md"
+                "file": "Проць/Functionality/Unregistered user Functionality.md"
               }
             }
           },
           {
-            "id": "1c556e1357980d7e",
+            "id": "378a3430c36f5f27",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -157,11 +157,19 @@
   },
   "active": "b2c92017caf2d7b5",
   "lastOpenFiles": [
-    "Ющак/Initial Note.md",
-    "Лабик/Initial Note.md",
-    "Казмірчук/Initial Note.md",
+    "Проць/Functionality/Pasted/Pasted image 20231202223731.png",
+    "Проць/Functionality/Unregistered user Functionality.md",
+    "Проць/Functionality/Pasted/Pasted image 20231202223522.png",
+    "Pasted image 20231202222047.png.md",
+    "Проць/Functionality/Pasted/Untitled.md",
+    "Pasted image 20231202222047.png",
+    "Проць/Functionality/Untitled.md",
+    "Проць/Functionality/Pasted",
     "Кончак/Initial note.md",
-    "Проць/Functionality/User Functionality.md",
+    "Лабик/Initial Note.md",
+    "Проць/Pasted",
+    "Ющак/Initial Note.md",
+    "Казмірчук/Initial Note.md",
     "Проць/Untitled.md",
     "Проць/UI ready",
     "Проць/UI prototypes",
