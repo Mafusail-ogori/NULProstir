@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проць/Functionality/Unregistered user Functionality.md",
+                "file": "Проць/Functionality/User Functionality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проць/Functionality/Unregistered user Functionality.md",
+                "file": "Проць/Functionality/User Functionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проць/Functionality/Unregistered user Functionality.md",
+                "file": "Проць/Functionality/User Functionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проць/Functionality/Unregistered user Functionality.md"
+                "file": "Проць/Functionality/User Functionality.md"
               }
             }
           },
@@ -157,19 +157,25 @@
   },
   "active": "b2c92017caf2d7b5",
   "lastOpenFiles": [
+    "Проць/Functionality/Editor Functionality.md",
+    "Лабик/Initial Note.md",
+    "Ющак/Initial Note.md",
+    "Кончак/Initial note.md",
+    "Казмірчук/Initial Note.md",
+    "Проць/Functionality/User Functionality.md",
+    "Проць/Functionality/Moderator Functionality.md",
+    "Проць/Functionality/System overall.md",
+    "Проць/Functionality/Pasted/Pasted image 20231203180338.png",
+    "Проць/Functionality/Pasted/Pasted image 20231203173225.png",
+    "Проць/Functionality/Pasted/Pasted image 20231203173032.png",
+    "Editor.pdf",
     "Проць/Functionality/Pasted/Pasted image 20231202223731.png",
-    "Проць/Functionality/Unregistered user Functionality.md",
     "Проць/Functionality/Pasted/Pasted image 20231202223522.png",
     "Pasted image 20231202222047.png.md",
     "Проць/Functionality/Pasted/Untitled.md",
     "Pasted image 20231202222047.png",
-    "Проць/Functionality/Untitled.md",
     "Проць/Functionality/Pasted",
-    "Кончак/Initial note.md",
-    "Лабик/Initial Note.md",
     "Проць/Pasted",
-    "Ющак/Initial Note.md",
-    "Казмірчук/Initial Note.md",
     "Проць/Untitled.md",
     "Проць/UI ready",
     "Проць/UI prototypes",
@@ -179,7 +185,6 @@
     "Казмірчук",
     "Ющак",
     "Проць",
-    "Кончак",
-    "Лабик"
+    "Кончак"
   ]
 }
