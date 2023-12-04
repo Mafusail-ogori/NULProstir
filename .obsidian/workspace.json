@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лабик/SWOT аналіз.md",
+                "file": "Лабик/Матриця Захмана.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лабик/SWOT аналіз.md",
+                "file": "Лабик/Матриця Захмана.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лабик/SWOT аналіз.md",
+                "file": "Лабик/Матриця Захмана.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лабик/SWOT аналіз.md"
+                "file": "Лабик/Матриця Захмана.md"
               }
             }
           },
@@ -157,15 +157,17 @@
   },
   "active": "b2c92017caf2d7b5",
   "lastOpenFiles": [
-    "swat.drawio.png",
-    "Проць/Functionality/User Functionality.md",
-    "Проць/Functionality/Editor Functionality.md",
     "Лабик/SWOT аналіз.md",
+    "Лабик/Матриця Захмана.md",
+    "zachman.drawio.png",
+    "Проць/Functionality/System overall.md",
+    "Проць/Functionality/User Functionality.md",
+    "Проць/Functionality/Moderator Functionality.md",
+    "Проць/Functionality/Editor Functionality.md",
+    "swat.drawio.png",
     "Ющак/Initial Note.md",
     "Кончак/Initial note.md",
     "Казмірчук/Initial Note.md",
-    "Проць/Functionality/Moderator Functionality.md",
-    "Проць/Functionality/System overall.md",
     "Проць/Functionality/Pasted/Pasted image 20231203180338.png",
     "Проць/Functionality/Pasted/Pasted image 20231203173225.png",
     "Проць/Functionality/Pasted/Pasted image 20231203173032.png",
