@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Казмірчук/Class Diagram.md",
+                "file": "Ющак/UseCase Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Казмірчук/Class Diagram.md",
+                "file": "Ющак/UseCase Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Казмірчук/Class Diagram.md",
+                "file": "Ющак/UseCase Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Казмірчук/Class Diagram.md"
+                "file": "Ющак/UseCase Diagram.md"
               }
             }
           },
@@ -157,9 +157,14 @@
   },
   "active": "f2ad81f1488fca4a",
   "lastOpenFiles": [
+    "Казмірчук/Class Diagram.md",
+    "Ющак/UseCase Diagram.md",
+    "Ющак/Pasted/Pasted image 20231209001132.png",
+    "Ющак/Pasted/Pasted image 20231209000528.png",
+    "Ющак/Pasted/Pasted image 20231209000516.png",
+    "Ющак/Pasted",
     "Казмірчук/Pasted/Pasted image 20231209182138.png",
     "Pasted image 20231207232522.png.md",
-    "Казмірчук/Class Diagram.md",
     "Казмірчук/Pasted/Pasted image 20231207230037.png",
     "Казмірчук/Pasted/Pasted image 20231208000903.png",
     "Казмірчук/Pasted/Pasted image 20231209181510.png",
@@ -168,9 +173,6 @@
     "Казмірчук/Pasted/Pasted image 20231208000339.png",
     "Лабик/Матриця Захмана.md",
     "Лабик/SWOT аналіз.md",
-    "Казмірчук/Pasted/Pasted image 20231207235454.png",
-    "Казмірчук/Pasted/Pasted image 20231207231532.png",
-    "Pasted image 20231207235343.png",
     "Кончак/Пункт 2.md",
     "Кончак/Пункт 1.md",
     "Ющак/Initial Note.md",
@@ -199,7 +201,6 @@
     "Проць/BackLog short ideas.md",
     "Untitled.canvas",
     "Казмірчук",
-    "Ющак",
-    "Проць"
+    "Ющак"
   ]
 }
