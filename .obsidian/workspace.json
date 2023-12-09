@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd52808794aabe1",
+        "id": "0ecf9ca477638424",
         "type": "tabs",
         "children": [
           {
-            "id": "f2ad81f1488fca4a",
+            "id": "1f98955b292a6a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Казмірчук/Activity Diagrams/Editor-Moderator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "138a83e1f3d40acd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ющак/UseCase Diagram.md",
+                "file": "Казмірчук/Activity Diagrams/Editor-Moderator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ющак/UseCase Diagram.md",
+                "file": "Казмірчук/Activity Diagrams/Editor-Moderator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ющак/UseCase Diagram.md"
+                "file": "Казмірчук/Activity Diagrams/Editor-Moderator.md"
               }
             }
           },
@@ -155,52 +167,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f2ad81f1488fca4a",
+  "active": "1f98955b292a6a03",
   "lastOpenFiles": [
-    "Казмірчук/Class Diagram.md",
     "Ющак/UseCase Diagram.md",
-    "Ющак/Pasted/Pasted image 20231209001132.png",
-    "Ющак/Pasted/Pasted image 20231209000528.png",
-    "Ющак/Pasted/Pasted image 20231209000516.png",
+    "Казмірчук/Activity Diagrams/Editor-Moderator.md",
+    "Казмірчук/Activity Diagrams/Moderator.md",
+    "Казмірчук/Activity Diagrams/Diagrams/Editor-Moderator/CreatePost Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/Moderator/EditPost Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/Moderator/BlockUser Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/Moderator/UpgradeUser Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/User-Editor-Moderator Activity Diagrams.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/Search Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/Sort Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/TeachersAssessment Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/EditInfo Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/Registration Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/PostReview Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/Donate Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/Comment Activity Diagram.md",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator/Authorization Activity Diagram.md",
+    "Проць/Functionality/Moderator Functionality.md",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209225359.png",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209224416.png",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209223951.png",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209222524.png",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209221644.png",
+    "Казмірчук/Activity Diagrams/Diagrams/Editor-Moderator",
+    "Казмірчук/Activity Diagrams/Diagrams/Moderator",
+    "Казмірчук/Activity Diagrams/Diagrams/User-Editor-Moderator",
+    "Казмірчук/Activity Diagrams/Diagrams",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209221009.png",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209220944.png",
+    "Проць/Functionality/Editor Functionality.md",
+    "Проць/Functionality/Pasted/Pasted image 20231202223731.png",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209220245.png",
+    "Проць/Functionality/User Functionality.md",
+    "Проць/Functionality/System overall.md",
+    "Казмірчук/Activity Diagrams/Pasted/Pasted image 20231209195310.png",
+    "Казмірчук/Activity Diagrams/Pasted/f.md",
+    "Казмірчук/Activity Diagrams/Pasted",
+    "Казмірчук/Activity Diagrams",
+    "Казмірчук/Class Diagram",
+    "Казмірчук/Class Diagram/Class Diagram.md",
     "Ющак/Pasted",
-    "Казмірчук/Pasted/Pasted image 20231209182138.png",
     "Pasted image 20231207232522.png.md",
-    "Казмірчук/Pasted/Pasted image 20231207230037.png",
-    "Казмірчук/Pasted/Pasted image 20231208000903.png",
-    "Казмірчук/Pasted/Pasted image 20231209181510.png",
-    "Казмірчук/Pasted/Pasted image 20231209180642.png",
-    "Казмірчук/Pasted/Pasted image 20231207232522.png",
-    "Казмірчук/Pasted/Pasted image 20231208000339.png",
     "Лабик/Матриця Захмана.md",
     "Лабик/SWOT аналіз.md",
-    "Кончак/Пункт 2.md",
-    "Кончак/Пункт 1.md",
-    "Ющак/Initial Note.md",
-    "Pasted image 20231207222531.png.md",
-    "Проць/Functionality/Moderator Functionality.md",
-    "Проць/Functionality/System overall.md",
-    "Кончак/Пункт 3.md",
-    "Pasted image 20231207212009.png.md",
-    "Казмірчук/Pasted",
-    "Проць/Functionality/Editor Functionality.md",
-    "Кончак/Пункт 4.md",
-    "Проць/Functionality/User Functionality.md",
-    "Кончак/Пункт 7.md",
-    "Кончак/Пункт 6.md",
-    "Кончак/Пункт 5.md",
-    "Кончак/Initial note.md",
+    "Казмірчук/Class Diagram/Pasted",
     "Editor.pdf",
-    "Pasted image 20231202222047.png.md",
-    "Проць/Functionality/Pasted/Untitled.md",
-    "Проць/Functionality/Pasted",
-    "Проць/Pasted",
-    "Проць/Untitled.md",
-    "Проць/UI ready",
-    "Проць/UI prototypes",
-    "Проць/Functionality",
-    "Проць/BackLog short ideas.md",
-    "Untitled.canvas",
-    "Казмірчук",
-    "Ющак"
+    "Untitled.canvas"
   ]
 }
