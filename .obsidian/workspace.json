@@ -11,8 +11,9 @@
             "id": "f2ad81f1488fca4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
+                "file": "Лабик/Pasted/swat.png"
                 "file": "Ющак/UseCase Diagram.md",
                 "mode": "source",
                 "source": false
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8ef017eea4de9d90",
@@ -85,7 +86,11 @@
             "state": {
               "type": "backlink",
               "state": {
+
+                "file": "Лабик/Pasted/swat.png",
+
                 "file": "Ющак/UseCase Diagram.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Лабик/Pasted/swat.png",
                 "file": "Ющак/UseCase Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,6 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Лабик/Pasted/swat.png"
                 "file": "Ющак/UseCase Diagram.md"
               }
             }
@@ -142,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,6 +163,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
+  "active": "02ef80f6d87a7bc6",
+  "lastOpenFiles": [
+    "Лабик/SWOT аналіз.md",
+    "Кончак/Пункт 5.md",
+    "Кончак/Пункт 6.md",
+    "Кончак/Пункт 7.md",
+    "Лабик/Матриця Захмана.md",
+    "Казмірчук/Class Diagram.md",
+    "Лабик/Pasted/swat.png",
+    "Лабик/Pasted/zachman.drawio.png",
+    "Лабик/Pasted/swat.drawio.png",
+    "Знімок екрана 2023-12-05 о 22.22.39.png.md",
+    "Лабик/Pasted",
+    "Кончак/Пункт 4.md",
+    "Кончак/Пункт 3.md",
+    "Кончак/Пункт 2.md",
+    "Кончак/Пункт 1.md",
+    "Казмірчук/Pasted/Pasted image 20231207230037.png",
+    "Казмірчук/Pasted/Pasted image 20231208000339.png",
+    "Проць/Functionality/Moderator Functionality.md",
+    "Казмірчук/Pasted/Pasted image 20231207232522.png",
+    "Проць/Functionality/Editor Functionality.md",
+    "Проць/Functionality/System overall.md",
+    "Проць/Functionality/User Functionality.md",
+    "Казмірчук/Pasted/Pasted image 20231208000903.png",
+    "Казмірчук/Pasted/Pasted image 20231207235454.png",
+    "Казмірчук/Pasted/Pasted image 20231207231532.png",
+    "Pasted image 20231207235343.png",
   "active": "f2ad81f1488fca4a",
   "lastOpenFiles": [
     "Казмірчук/Class Diagram.md",
@@ -175,19 +211,11 @@
     "Лабик/SWOT аналіз.md",
     "Кончак/Пункт 2.md",
     "Кончак/Пункт 1.md",
+
     "Ющак/Initial Note.md",
     "Pasted image 20231207222531.png.md",
-    "Проць/Functionality/Moderator Functionality.md",
-    "Проць/Functionality/System overall.md",
-    "Кончак/Пункт 3.md",
     "Pasted image 20231207212009.png.md",
     "Казмірчук/Pasted",
-    "Проць/Functionality/Editor Functionality.md",
-    "Кончак/Пункт 4.md",
-    "Проць/Functionality/User Functionality.md",
-    "Кончак/Пункт 7.md",
-    "Кончак/Пункт 6.md",
-    "Кончак/Пункт 5.md",
     "Кончак/Initial note.md",
     "Editor.pdf",
     "Pasted image 20231202222047.png.md",
