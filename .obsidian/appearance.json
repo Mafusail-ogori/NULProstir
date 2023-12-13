@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 20
+<<<<<<< HEAD
+  "baseFontSize": 24
+=======
+  "baseFontSize": 19
+>>>>>>> 344f7d8e3e4f96d3a7b1408a71c3bc77e9878618
 }
