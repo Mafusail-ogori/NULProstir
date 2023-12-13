@@ -71,8 +71,10 @@
             "id": "eff48dfbab473ddb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Ющак/Pasted/Pasted image 20231209001132.png"
+              }
             }
           }
         ],
@@ -142,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ющак/Pasted/Pasted image 20231209001132.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ющак/Pasted/Pasted image 20231209001132.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ющак/Pasted/Pasted image 20231209001132.png"
+              }
             }
           },
           {
@@ -195,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,34 +214,69 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "eff48dfbab473ddb",
+  "floating": {
+    "id": "121854ae17cd1cbc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "606ebd432ae46cf7",
+        "type": "window",
+        "children": [
+          {
+            "id": "d1675fe35d578685",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "43de75064a0d0d61",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Ющак/Pasted/Pasted image 20231209001132.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2140,
+        "y": 766,
+        "width": 1024,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "43de75064a0d0d61",
   "lastOpenFiles": [
-    "Кончак/Пункт 6.md",
-    "Знімок екрана 2023-12-05 о 22.22.39.png.md",
-    "Ющак/UseCase Diagram.md",
+    "Ющак/Pasted/Pasted image 20231209000528.png",
     "Ющак/Pasted/Pasted image 20231209000516.png",
     "Ющак/Pasted/Pasted image 20231209001132.png",
-    "Ющак/Pasted/Pasted image 20231209000528.png",
-    "Pasted image 20231209000500.png",
-    "Казмірчук/Class Diagram.md",
-    "Проць/Functionality/System overall.md",
+    "Проць/Functionality/User Functionality.md",
+    "Ющак/UseCase Diagram.md",
+    "Лабик/SWOT аналіз.md",
+    "Проць/Functionality/Pasted/Pasted image 20231203180338.png",
+    "Проць/Functionality/Pasted/Pasted image 20231203173225.png",
+    "Проць/Functionality/Pasted/Pasted image 20231203173032.png",
+    "Проць/Functionality/Pasted/Pasted image 20231202223731.png",
+    "Казмірчук/Pasted/Pasted image 20231207230037.png",
     "Кончак/Пункт 3.md",
-    "Кончак/Пункт 4.md",
+    "Кончак/Пункт 6.md",
+    "Проць/Functionality/Editor Functionality.md",
+    "Проць/Functionality/Moderator Functionality.md",
+    "zachman.drawio.png",
+    "swat.drawio.png",
+    "Лабик/Матриця Захмана.md",
     "Кончак/Пункт 5.md",
     "Кончак/Пункт 2.md",
     "Кончак/Пункт 1.md",
-    "Проць/Functionality/Editor Functionality.md",
-    "Проць/Functionality/Pasted/Pasted image 20231202223731.png",
-    "Проць/Functionality/User Functionality.md",
-    "Проць/Functionality/Moderator Functionality.md",
+    "Знімок екрана 2023-12-05 о 22.22.39.png.md",
+    "Казмірчук/Class Diagram.md",
+    "Проць/Functionality/System overall.md",
+    "Кончак/Пункт 4.md",
     "Кончак/Пункт 7.md",
-    "swat.drawio.png",
-    "zachman.drawio.png",
-    "Лабик/Матриця Захмана.md",
-    "Лабик/SWOT аналіз.md",
-    "Казмірчук/Pasted/Pasted image 20231208000903.png",
-    "Казмірчук/Pasted/Pasted image 20231208000339.png",
-    "Казмірчук/Pasted/Pasted image 20231207232522.png",
     "Ющак/Initial Note.md",
     "Pasted image 20231207222531.png.md",
     "Pasted image 20231207212009.png.md",
